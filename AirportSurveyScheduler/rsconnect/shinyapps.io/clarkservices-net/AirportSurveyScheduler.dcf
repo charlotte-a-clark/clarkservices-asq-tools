@@ -1,0 +1,10 @@
+name: AirportSurveyScheduler
+title:
+username: clarkservices-net
+account: clarkservices-net
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16401797
+bundleId: 11426820
+url: https://clarkservices-net.shinyapps.io/AirportSurveyScheduler/
+version: 1
